@@ -47,7 +47,7 @@ DEFAULT_ARGS = [
     '--disable-client-side-phishing-detection',
     '--disable-default-apps',
     '--disable-dev-shm-usage',
-    '--disable-extensions',
+    #'--disable-extensions',
     '--disable-features=site-per-process',
     '--disable-hang-monitor',
     '--disable-popup-blocking',
